@@ -42,3 +42,9 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+
+# Windows Zone Identifier
+*.js:Zone.Identifier
+*.exe:Zone.Identifier
+*.dll:Zone.Identifier
+*:Zone.Identifier
